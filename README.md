@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thilakshan</h1>
-<h3 align="center">A recent mathematics graduate and bootcamp graduate looking for a role in full stack development</h3>
+<h3 align="center">A recent mathematics graduate and bootcamp graduate looking for a role in data</h3>
 
 <h3 align="left">Take a look at some of my projects</h3>
 <p align="left">
